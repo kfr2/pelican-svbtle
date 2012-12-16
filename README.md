@@ -4,7 +4,7 @@ Svbtle theme is a close copy of the design of [Svbtle.com](http://www.svbtle.com
 
 ## DEMO
 
-You can see the [theme in action](http://magically.us/), or the site code [here](https://github.com/kfr2/kfr2.github.com).
+You can see the [theme in action](http://magically.us/), or the site code [here](https://github.com/kfr2/magically.us).
 
 ![theme screenshot](https://raw.github.com/kfr2/pelican-svbtle/master/screenshot.png)
 
@@ -21,7 +21,7 @@ Download or clone the [repository](https://github.com/kfr2/pelican-svbtle). Edit
 
 ## PELICANCONF.PY
 
-The following are the Pelican global variables currently supported by the theme.  You may wish to view [Kevin Richardson's pelicanconf.py](https://google.com) for more information.
+The following are the Pelican global variables currently supported by the theme.  You may wish to view [Kevin Richardson's pelicanconf.py](https://github.com/kfr2/magically.us/blob/master/pelicanconf.py) for more information.
 
 ### sidebar settings
 - *note: listed in the order shown in the template*
