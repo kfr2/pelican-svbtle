@@ -10,7 +10,7 @@
 						<a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title }}">{{ article.title }}</a>
 					</h2>
 					<abbr class="published" title="{{ article.date.isoformat() }}">{{ article.locale_date }}</abbr>
-				<div class="entry-content"> {{ article.summary }} </div>
+				<div class="entry-content"> {{ article.content }} </div>
 				</li>
 			{% endfor %}
 		</ol>
